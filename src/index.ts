@@ -1,1 +1,1 @@
-console.log("hi")
+document.body.textContent = "hello";
