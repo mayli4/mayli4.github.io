@@ -1,3 +1,7 @@
 # vscode
 
-.vscode
+./vscode
+
+# other
+
+/node_modules
